@@ -14,6 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @GetMapping("/test")
     public Object test() {
-        return "hello world man!";
+        return "hello world man test!";
     }
 }
