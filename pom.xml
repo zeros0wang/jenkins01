@@ -17,6 +17,7 @@
     <name>jenkins01</name>
 
     <properties>
+        <start-class>com.wp.platform.Jenkins01Application</start-class>
         <slf4j.version>1.7.30</slf4j.version>
         <junit.version>4.12</junit.version>
         <streamsets.version>3.13.0</streamsets.version>
